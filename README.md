@@ -1,5 +1,5 @@
-# preparing-SC104
-Developing Helm Charts (SC104)  SKILLCRED Developing Helm Charts (SC104)
+# SC104-helm-workshop
+## Topics
 * Create charts using basic templating
 * Customize existing charts
 * Manage chart dependencies
